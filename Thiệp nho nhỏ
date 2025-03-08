@@ -1131,7 +1131,7 @@
         // chữ của thư bạn muốn gửi
         let indexTextContent = 0;
         let textLetterContent = document.querySelector('.contentLetter');
-        const textLetterP = "Hôm nay là ngày 08/03. Xin gửi lời chúc tới bé iu của em. Luôn vui vẻ, luôn hạnh phúc và luôn may mắn trong cuộc sống, ngày càng xinh đẹp. Xin gửi tất cả lời chúc tốt đẹp đến với chị. Tối em sẽ qua mang theo một món quà nho nhỏ tặng chị.Gặp một chút cũng được rùi. Love You💗";
+        const textLetterP = "Hôm nay là ngày 08/03. Xin gửi lời chúc tới người tớ yêu thương nhất. Luôn vui vẻ, luôn hạnh phúc và luôn may mắn trong cuộc sống, ngày càng xinh đẹp. Xin gửi tất cả lời chúc tốt đẹp đến với cậu. Love You💗";
         let timoutTextLetterContent;
         function textCharLetterContent() {
             if (indexTextContent < textLetterP.length) {
